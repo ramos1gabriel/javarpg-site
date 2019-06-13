@@ -9,3 +9,20 @@ https://bit.ly/1FXfNAJ
 
 Dungeons_&_Dragons
 https://bit.ly/2IaX7tt
+
+---
+https://dnd.wizards.com/dungeons-and-dragons/what-is-dd/monsters
+---
+ENIMIE By Anakin Lee
+https://www.artstation.com/artwork/the-demon-knight
+---
+HERO By christopher onciu
+https://www.artstation.com/artwork/B2J69
+
+---
+melhorias
+historias baseadas no d&d
+conceito de ideia (ENGINE DE RPG)
+colocar decisao de jogador(direita e esquerda);
+adicionar atributos no modelo do inimigo (nivel do inimigo, dropNivel, dropDinheiro e dropPocao);
+acada monstro derrotado +nivel +dinheiro +pocao (definidos no drop)
