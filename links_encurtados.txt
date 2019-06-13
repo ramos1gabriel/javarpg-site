@@ -14,11 +14,14 @@ https://bit.ly/2IaX7tt
 https://dnd.wizards.com/dungeons-and-dragons/what-is-dd/monsters
 ---
 ENIMIE By Anakin Lee
-https://www.artstation.com/artwork/the-demon-knight
+https://bit.ly/2XIYQvB
 ---
 HERO By christopher onciu
-https://www.artstation.com/artwork/B2J69
+https://bit.ly/2X2AcJl
 
+---
+ENCURTADOR:
+https://bitly.com/
 ---
 melhorias
 historias baseadas no d&d
@@ -26,3 +29,9 @@ conceito de ideia (ENGINE DE RPG)
 colocar decisao de jogador(direita e esquerda);
 adicionar atributos no modelo do inimigo (nivel do inimigo, dropNivel, dropDinheiro e dropPocao);
 acada monstro derrotado +nivel +dinheiro +pocao (definidos no drop)
+
+------
+PHOTOSHOP
+- editar imagens da galeria no photoshop
+- fazer montagem com varias creaturas do rpg
+------
