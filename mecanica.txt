@@ -1,0 +1,52 @@
+---------------------------
+Heroi
+---------------------------
+nome
+vida
+dinheiro
+nivel
+qtdPocao
+---------------------------
+Inimigo
+---------------------------
+nome
+vida
+nivel
+dropDinheiro
+dropQtdPocao
+dropNivel
+---------------------------
+
+***MECANICA GERAL DE BOTOES:
+clicar em 1(um) botao de acao:
+- atacar
+- negociar
+- fugir
+
+depois clicar em SEGUIR (sempre clicar nele apos acao / vai servir como um CONTROLE GERALZAO)
+
+opcoes extras: (ainda nao planejadas)
+- direita
+- esquerda
+
+PARAMETROS para batalha:
+idInimigo (todos inimigos serãp pré-cadastros, podendo ser modificado os atributos)
+qtd de inimigo (criar metodos separados para qtd definidas) (MAXIMO=5)
+
+iniciarBatalha
+1 - testaIniciativa => jogam d20 q tirar maior numero começa
+2 - passa por parametro quem deve começar
+
+mecanicaCombateV1
+1 - joga d20 pra calcular dano:
+    1.1 - caso tire 1 no dado = ESQUIVA
+    1.2 - caso tire 20 no dado:
+        1.2.1 - adiciona bonus (elaborar calculo)
+        1.2.2 - ataque especial (elaborar mecanica)
+2 - comparar nivel para aplicar probabilidade de ESQUIVA
+3 - tentar FUGIR:
+    3.1 - 
+4 - tentar NEGOCIAR:
+    4.1 - 
+
+5 - Sempre realizar 1(uma) RODADA e voltar para o usuario perguntando o que ele vai fazer... (DESENVOLVER MECANICA QUE FAÇA ISSO DE FORMA GENERICONA!!)
